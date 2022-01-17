@@ -1,4 +1,4 @@
-# hadoop-hdfs-mapreduce-jobs-E2E-implementation-linux-server-olympictweets2016rio-data
+# apache-hadoop-hdfs-mapreduce-jobs-E2E-implementation-linux-server-olympictweets2016rio-data
 
 This project is delivered as part of my Masters in Big Data Science (MSc BDS) Program for the module named “Big Data Processing” in Queen Mary University of London (QMUL), London, United Kingdom.  
 
