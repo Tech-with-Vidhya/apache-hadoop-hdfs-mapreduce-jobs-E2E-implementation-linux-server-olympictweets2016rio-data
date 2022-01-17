@@ -6,7 +6,7 @@ This project includes the development of a MapReduce python script with and with
 
 The data files are stored in the Hadoop HDFS and the jobs are executed in the Hadoop Cluster.   
 
-Identified solutions to the questions namely: 
+Implemented solutions to the below questions and scenarios: 
 1. Day with the highest number of tweets 
 2. Total number of malformed lines of input 
 3. Average length of the tweets  
